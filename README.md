@@ -1,6 +1,5 @@
 # Space Race Analysis
 
-See deployment at https://nbviewer.jupyter.org/github/christinichka/Space-Race-Analysis/blob/main/Space_Missions_Analysis_Capstone.ipynb
 
 This project is my submission for the Capstone Assignment Analyse and Visualise the Space Race for my Python Bootcamp Udemy Course.
 
